@@ -1,10 +1,7 @@
-# 👋 Hi, I'm Kai!
+# Kai here
 
-I'm just getting started with coding — excited, curious, and fully committed to learning.
+Just getting started with coding - excited, curious, and fully committed to learning.
 Right now, I'm exploring JavaScript, Node.js, and the tools that power modern development.
-
-I’m also building my first real project: DOTS, a map-based messaging app.
-It’s still early, but I’m sharing my journey publicly to learn, improve, and connect with people who can guide me along the way.
 
 ## 🚀 What I’m Currently Learning
 
@@ -52,10 +49,6 @@ If you see something I could do better, please tell me — I appreciate it.
 GitHub Issues & Discussions
 
 [LinkedIn](https://www.linkedin.com/in/kai-g-982b8120b/)
-
-## 🤝 Open to Collaboration
-
-If you’re working on beginner-friendly projects or want to help me improve DOTS, feel free to reach out. I'm eager to learn from others and contribute where I can.
 
 ## 🌱 Fun Fact
 
